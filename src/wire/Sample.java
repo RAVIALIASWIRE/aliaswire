@@ -8,6 +8,8 @@ public class Sample {
 		Test test1 = new Test();
 		test1.display();
 		System.out.println("this is sample java sample class");
+		System.out.println("this is  java class and exoport to git repostitory");
+		
 	}
 
 }
